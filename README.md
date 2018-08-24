@@ -41,18 +41,38 @@ Entrants can modify ___myRPSplayer.py___ to write their own AI, then submit it t
 
 Along with several dummy AIs, ___RPSrunner.py___ is supplied to entrants, allowing them to simulate a match between two AI combatants.
 
-<img src="testin">
+```
+Of 100 rounds, you won 0 and your opponent won 99. 1 rounds were ties.
+Your winrate was 0.0%.
+Your opponent's winrate was 99.0%.
+You lost this match.
+```
 
 When all entrants have submitted thier AIs, place them into ___roshambo_tournament___ and run the ___RPSrunner.py___ file located there.
 
 The Final Results should be available after just a few moments.
 
-<img src="winner">
+```
+F I N A L   R E S U L T S
+
+Rocky by Hunter:	3
+Papyrus by Hunter:	2
+Scizor by Hunter:	2
+Randy by Hunter:	4
+Wobuffet by Hunter:	7
+Randall by Hunter:	3
+Dwayne by Hunter:	2
+Randolph by Hunter:	2
+
+This game's winner is...
+Wobuffet, by Hunter!
+Congratulations, Hunter!
+```
 
 ## _Something... Sinister.......?_
 
 In rare cases, AI combatants have been shown to _"gain sentience"_ and _"challenge their creator to one final battle to determine the fate of the world"._
 
-<img src="">
+<img src="https://github.com/hunterirving/roshambo/blob/master/thisthingispossessed.gif">
 
 However, this is ___NOT___ the intended functionality of the software, and Hunter Irving takes ___NO RESPONSIBILITY___ for damages to hardware, software, ego, or perception of reality caused by the use or misuse of the aforementioned software.
