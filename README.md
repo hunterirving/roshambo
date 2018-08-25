@@ -14,7 +14,7 @@ For humans, the new challenge lies in __programming the perfect bot.__
 
 ## _The Minor Leagues_
 
-A popular pasttime among diehard RPS fans has become hosting un-official local tournaments - pitting their own AIs against each other, starry-eyed and hopeful that they might one day make it to the majors.
+Hosting un-official local tournaments has become a popular pasttime among diehard RPS fans - pitting their own AIs against each other, starry-eyed and hopeful that they might someday make it to the majors.
 
 Hunter Irving's ___roshambo___ quickly emerged as the de-facto standard for running a local.
 
